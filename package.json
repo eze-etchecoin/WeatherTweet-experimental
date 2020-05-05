@@ -1,0 +1,31 @@
+{
+  "name": "weathertweet-experimental",
+  "version": "1.0.0",
+  "description": "Integración de Node con varios contenedores en la nube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eze-etchecoin/WeatherTweet-experimental.git"
+  },
+  "keywords": [
+    "weather",
+    "twitter",
+    "experimental",
+    "project",
+    "node",
+    "docker",
+    "aws"
+  ],
+  "author": "BackhillSoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eze-etchecoin/WeatherTweet-experimental/issues"
+  },
+  "homepage": "https://github.com/eze-etchecoin/WeatherTweet-experimental#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
